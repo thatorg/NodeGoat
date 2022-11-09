@@ -1,4 +1,4 @@
-# NodeGoat
+# NodeGoat (Thiago)
 
 Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. This project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 
@@ -87,7 +87,7 @@ Other settings can be changed by updating the [config file](https://github.com/O
 
 The repo includes the Dockerfile and docker-compose.yml necessary to set up the app and db instance, then connect them together.
 
-1) Install [docker](https://docs.docker.com/installation/) and [docker compose](https://docs.docker.com/compose/install/) 
+1) Install [docker](https://docs.docker.com/installation/) and [docker compose](https://docs.docker.com/compose/install/)
 
 2) Clone the github repository:
    ```
