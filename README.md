@@ -8,7 +8,9 @@ OWASP Top 10 for Node.js web applications:
 
 ### Know it!
 
-[Tutorial Guide](http://nodegoat.herokuapp.com/tutorial) explaining how each of the OWASP Top 10 vulnerabilities can manifest in Node.js web apps and how to prevent it.
+This application bundled a tutorial page that explains the OWASP Top 10 vulnerabilities and how to fix them.
+
+Once the application is running, you can access the tutorial page at [http://localhost:4000/tutorial](http://localhost:4000/tutorial) (or the port you have configured).
 
 ### Do it!
 
@@ -17,8 +19,8 @@ OWASP Top 10 for Node.js web applications:
 ##### Default user accounts
 
 The database comes pre-populated with these user accounts created as part of the seed data -
-* Admin Account - u:admin p:Admin_123
-* User Accounts (u:user1 p:User1_123), (u:user2 p:User2_123)
+* Admin Account - u:`admin` p:`Admin_123`
+* User Accounts (u:`user1` p:`User1_123`), (u:`user2` p:`User2_123`)
 * New users can also be added using the sign-up page.
 
 ## How to Set Up Your Copy of NodeGoat
